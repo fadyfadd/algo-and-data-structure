@@ -1,4 +1,4 @@
-// quick sort
+//quick sort
 //time complexity O(nlog(n))
 //space complexity O(1)
 

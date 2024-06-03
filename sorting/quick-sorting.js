@@ -1,3 +1,7 @@
+// quick sort
+//time complexity O(nlog(n))
+//space complexity O(1)
+
 const utilities = require('../lib/utilities.js') 
 
 function pivot(arr , leftIndex , rightIndex) {

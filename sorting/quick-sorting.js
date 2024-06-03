@@ -21,7 +21,6 @@ function pivot(arr , leftIndex , rightIndex) {
 }
 
 
-
 function quick_sort(arr, left = 0, right = arr.length -1){
     if(left < right){
         let pivotIndex = pivot(arr, left, right) //3
@@ -32,7 +31,6 @@ function quick_sort(arr, left = 0, right = arr.length -1){
       }
      return arr;
 } 
-
 
 let arr = [11,10,25,10,1,0,-1,-10]
 quick_sort(arr , 0 , arr.length - 1)

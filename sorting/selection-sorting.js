@@ -2,7 +2,6 @@
 //time complexity O(n^2)
 //space complexity O(1)
 
-
 const utilities = require('../lib/utilities.js') 
 
 function selection_sort(arr) {
